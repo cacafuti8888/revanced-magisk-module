@@ -1,4 +1,4 @@
-*.apk
+6*.apk
 *.zip
 /temp
 /build
@@ -7,3 +7,4 @@ test*
 build.md
 cmpr
 *-temporary-files
+config.toml
