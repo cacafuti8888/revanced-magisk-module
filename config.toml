@@ -20,10 +20,6 @@ rv-brand = "Morphe"
 build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-excluded-patches = """\
-  'Custom branding' \
-  'Custom branding icon for YouTube' \
-  """
 enable-update-checks = true
 
 #[Music]
